@@ -1,0 +1,6 @@
+# Financial CoPilot
+# Install: pip install -r requirements.txt
+# Core logic
+pandas
+pydantic
+flask
